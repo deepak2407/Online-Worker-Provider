@@ -1,0 +1,10 @@
+<?php
+session_start();
+if(isset($_SESSION['wlogin'])&&$_SESSION['wlogin']==true)
+{
+ $_SESSION['wlogin']=false;
+ session_unset();
+ session_destroy();
+}
+header('Location:index.php');
+?>
