@@ -9,5 +9,4 @@ Proposed Solution:
 Online Worker Provider System provides details of all the workers available in their locality. The system allows the customer to track and check worker availability and their wages. This system allows workers on daily or hourly or on a time based manner.
 This system allows the workers to get information about their work. Workers will send an acknowledgment by accepting the customer request.
 I used HTML, CSS, JavaScript for front end and used PHP and MySql for backend.
-
 XAMPP is used for testing and developing local web server as it is simple and light weight.
