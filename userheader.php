@@ -9,7 +9,7 @@
 <div class="wrapper row1">
   <header id="header" class="clear" >
     <div id="hgroup" >
-      <h1><a href="useraccount.php">ONLINE LABOUR PROVIDER</a></h1>
+      <h1><a href="useraccount.php">ONLINE WORKER PROVIDER</a></h1>
     </div>
 	<form id="emplogin" action="search.php" method="post">
             <input type="text" name="srch" placeholder="Search..." required>
