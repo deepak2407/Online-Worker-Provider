@@ -7,7 +7,7 @@
 <div class="wrapper row1">
   <header id="header" >
     <div id="hgroup">
-      <h1><a style="text-decoration:none" href="index.php">ONLINE LABOUR PROVIDER</a></h1>
+      <h1><a style="text-decoration:none" href="index.php">ONLINE WORKER PROVIDER</a></h1>
     </div>
     <nav>
       <ul>
