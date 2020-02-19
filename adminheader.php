@@ -8,7 +8,7 @@
 <div class="wrapper row1">
   <header id="header" class="clear" >
     <div id="hgroup">
-      <h1><a href="adminaccount.php">ONLINE LABOUR PROVIDER</a></h1>
+      <h1><a href="adminaccount.php">ONLINE WORKER PROVIDER</a></h1>
     </div>
 	
     <nav>
