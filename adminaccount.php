@@ -6,7 +6,6 @@
 </head>
 <body>
 <h1>admin verified</h1>
-
 </body>
 </html>
 <?php include "footer.php"?>
