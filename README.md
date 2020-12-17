@@ -1,6 +1,6 @@
 # Online-Worker-Provider
 
-The main problem here is people living in cities do not know where the workers are available. They search a lot or ask a lot for the worker details to get their work completed.
+The main problem we are trying to solve here is people living in cities do not know where the workers are available. They search a lot or ask a lot for the worker details to get their work completed.
 For example, a person wants a plumber,carpenter…
 As their location or contact is not actively know by the consumer.
 
